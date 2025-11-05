@@ -1,0 +1,21 @@
+# 核心PDF处理
+pdfminer.six>=20231228  # 主要PDF处理引擎
+PyPDF2==3.0.1  # 备用PDF处理
+
+# 其他文档格式
+python-docx==0.8.11  # DOCX文档处理
+
+# OCR功能（用于扫描版PDF）- 科大讯飞
+requests>=2.31.0  # HTTP客户端，用于调用讯飞OCR API
+Pillow>=10.0.0  # 图片处理库（可选）
+
+# 文件类型检测（可选）
+python-magic==0.4.27
+python-magic-bin==0.4.14
+
+# GPT术语抽取核心依赖
+openai>=1.10.0
+tiktoken>=0.5.1
+
+# Excel输出支持
+openpyxl>=3.1.0
