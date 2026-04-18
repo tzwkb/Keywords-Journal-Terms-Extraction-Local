@@ -1,12 +1,14 @@
-# Keywords Journal Terms Extraction (Local)
+# Keywords Journal Terms Extraction (Outdated)
 
-Extract domain-specific terminology from journal articles using keyword-driven strategies.
+⚠️ **This repository is archived.**
 
-## Features
+A keyword-driven terminology extraction tool developed for a specific project task. It is not designed for general-purpose reuse or migration.
 
-- Keyword-guided term extraction
-- Multi-format input support
-- Local offline execution
+## Status
+
+- **Scope**: Task-specific, not universal
+- **Maintenance**: None
+- **Alternative**: Use [`journal-term-extractor`](https://github.com/tzwkb/journal-term-extractor) for general terminology extraction
 
 ## License
 
