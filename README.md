@@ -1,6 +1,6 @@
 # Keywords Journal Terms Extraction (Outdated)
 
-[中文](README_ZH.md) | English
+English | [中文](README_ZH.md)
 
 
 ⚠️ **This repository is archived.**
