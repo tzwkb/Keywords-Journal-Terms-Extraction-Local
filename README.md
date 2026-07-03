@@ -1,7 +1,8 @@
 # Keywords Journal Terms Extraction (Outdated)
 
-English | [中文](README_ZH.md)
+[![Archived](https://img.shields.io/badge/status-archived-lightgrey.svg)](#status)
 
+English | [中文](README_ZH.md)
 
 ⚠️ **This repository is archived.**
 
